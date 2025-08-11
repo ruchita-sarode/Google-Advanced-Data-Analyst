@@ -3,14 +3,14 @@ This repository holds all the labs, annotated notebooks, visualizations, and cap
 
 The certificate is offered through six courses all of which offer a comprehensive curriculum towards specific aspects of data analytics. These courses are:
 
-Foundations of Data Science
+1. Foundations of Data Science
 
-Get Started with Python
+2. Get Started with Python
 
-Go Beyond Numbers: Translate Data into Insights
+3. Go Beyond Numbers: Translate Data into Insights
 
-The Power of Statistics
+4. The Power of Statistics
 
-Regression Analysis: Simplfy Complex Data Relationships
+5. Regression Analysis: Simplfy Complex Data Relationships
 
-The Nuts and Bolts of Machine Learning
+6. The Nuts and Bolts of Machine Learning
